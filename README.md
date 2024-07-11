@@ -47,6 +47,5 @@
 
 ### Entre em contato comigo! 📭
 <div>
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lu.afaria@hotmail.com)
 <a href="https://www.linkedin.com/in/luciane-faria-%F0%9F%8C%88-9b7636107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
