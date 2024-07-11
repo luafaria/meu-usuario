@@ -1,6 +1,4 @@
-# Seja Bem Vindo ao meu perfil 
-
-# Luciane Faria 🌈
+# Seja Bem Vindo: Sou a Luciane Faria! 🌈
 
 ### Sobre mim
 
